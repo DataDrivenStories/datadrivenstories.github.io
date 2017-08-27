@@ -44,6 +44,7 @@ SITEMAP = {
     }
 }
 
+
 # Appearance
 TYPOGRIFY = True
 THEME = 'themes/elegant'
