@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>SreeAnalytics - Sreenath R Yettapu</title><link>http://datadrivenstories.github.io/</link><description></description><lastBuildDate>Sun, 27 Aug 2017 14:45:00 +0200</lastBuildDate><item><title>First Post</title><link>http://datadrivenstories.github.io/first-post</link><description>
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h1 id="First-post!"&gt;First post!&lt;a class="anchor-link" href="#First-post!"&gt;¶&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This will be the first post in our new Pelican blog! You can add any code or markdown cells to this Jupyter notebook, and they will be rendered on your&amp;nbsp;blog.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sreenath R Yettapu</dc:creator><pubDate>Sun, 27 Aug 2017 14:45:00 +0200</pubDate><guid isPermaLink="false">tag:datadrivenstories.github.io,2017-08-27:/first-post</guid><category>python firsts</category></item></channel></rss>

@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
@@ -7,16 +6,15 @@ AUTHOR = u'Sreenath R Yettapu'
 SITENAME = u"""<b><span style="color:#AA1032;">S</span><span style="color:black;">ree</span><span style="color:#AA1032;">A</span><span style="color:black;">nalytics</span></b>"""
 SITEURL = 'http://localhost:8000'
 
-PATH = 'content'
 
 # Regional Settings
 TIMEZONE = 'Europe/Paris'
 DATE_FORMATS = {'en': '%b %d, %Y'}
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = u'en'
 
+
+# Plugins and extensions
 MARKUP = ('md', 'ipynb')
-
-
 MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
@@ -51,6 +49,7 @@ TYPOGRIFY = True
 THEME = 'themes/elegant'
 DEFAULT_PAGINATION = False
 
+
 # Defaults
 DEFAULT_CATEGORY = 'Miscellaneous'
 USE_FOLDER_AS_CATEGORY = False
@@ -62,15 +61,16 @@ PAGE_SAVE_AS = u'{slug}.html'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+#AUTHOR_FEED_ATOM = None
+#AUTHOR_FEED_RSS = None
 
 # Social
 SOCIAL = (
         ('Twitter', 'https://twitter.com/SreeAnalytics'),
-        ('Github', 'http://github.com/SreeAnalytics'),
+        ('Github', 'http://github.com/DataDrivenStories'),
         ('Email', 'mailto:sreenath.yettapu@outlook.com'),
         )
+
 
 # Elegant theme
 STATIC_PATHS = ['theme/images', 'images']
